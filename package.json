@@ -12,10 +12,11 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.4.2",
     "axios": "^1.6.2",
-    "parcel": "^2.10.3",
+    "remove": "^0.1.5",
     "sweetalert2": "^11.10.1"
   },
   "devDependencies": {
-    "buffer": "^6.0.3"
+    "buffer": "^6.0.3",
+    "parcel": "^2.10.3"
   }
 }

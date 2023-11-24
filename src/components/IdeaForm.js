@@ -1,7 +1,7 @@
 import IdeasApi from '../service/IdeasApi';
 import IdeaList from './IdeaList';
 
-const Swal = require('sweetalert2');
+import Swal from 'sweetalert2'
 
 export const Toast = Swal.mixin({
   toast: true,
